@@ -1,0 +1,7 @@
+{
+  "name": "Maple Hearth Restaurant",
+  "description": "A premium, cozy Canadian comfort food restaurant website featuring hearth-cooked meals, maple sweetness, and prairie warmth.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
