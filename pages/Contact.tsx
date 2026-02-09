@@ -61,8 +61,7 @@ const ContactPage: React.FC = () => {
                    <div className="pt-8 border-t border-cream/10">
                       <h4 className="font-bold text-maple-orange uppercase tracking-widest text-[10px] mb-4">Socials</h4>
                       <div className="flex space-x-4">
-                         <a href="#" className="p-3 bg-white/5 rounded-full hover:bg-maple-amber transition-colors">Instagram</a>
-                         <a href="#" className="p-3 bg-white/5 rounded-full hover:bg-maple-amber transition-colors">Facebook</a>
+                         <a href="https://www.facebook.com/share/1BYQt9XJSb/?mibextid=wwXIfr" className="p-3 bg-white/5 rounded-full hover:bg-maple-amber transition-colors">Facebook</a>
                       </div>
                    </div>
                 </div>
