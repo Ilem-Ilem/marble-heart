@@ -18,8 +18,7 @@ const Footer: React.FC = () => {
               Where comfort meets flavor. Drawing from Canadian hearthside cooking and the sweet richness of maple.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="p-2 bg-walnut rounded-full hover:bg-maple-amber transition-colors"><Instagram size={18} /></a>
-              <a href="#" className="p-2 bg-walnut rounded-full hover:bg-maple-amber transition-colors"><Facebook size={18} /></a>
+              <a href="https://www.facebook.com/share/1BYQt9XJSb/?mibextid=wwXIfr" className="p-2 bg-walnut rounded-full hover:bg-maple-amber transition-colors"><Facebook size={18} /></a>
             </div>
           </div>
 
