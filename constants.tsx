@@ -5,15 +5,15 @@ export const WHATSAPP_URL = "https://wa.me/15812568701";
 export const PHONE_NUMBER = "+1 (581) 256-8701";
 export const ADDRESS = "140 Idylwyld Dr S, Saskatoon, SK S7L 0Y7, Canada";
 
-export const ABOUT_STORY_LONG = `At Maple Hearth Restaurant, we believe food should feel like home.
+export const ABOUT_STORY_LONG = `At Maple Heart Cruison, we believe food should feel like home.
 
-Our journey began with a simple dream: to create a place where people could gather around good food, share stories, and enjoy meals made with care. Inspired by traditional hearthside cooking and the rich sweetness of maple flavors, Maple Hearth was built on the idea that comfort food can still be crafted with quality and creativity.
+Our journey began with a simple dream: to create a place where people could gather around good food, share stories, and enjoy meals made with care. Inspired by traditional hearthside cooking and the rich sweetness of maple flavors, Maple Heart Cruison was built on the idea that comfort food can still be crafted with quality and creativity.
 
 We source fresh ingredients, prepare meals daily, and honor time-tested recipes while adding modern twists. From slow-cooked meats to house-made sauces and desserts baked in our kitchen, every dish reflects our passion for warm hospitality and honest cooking.
 
-Maple Hearth isn’t just a restaurant — it’s a gathering place. A place for families to celebrate milestones, for friends to laugh over burgers, and for couples to enjoy quiet dinners by candlelight. Every guest who walks through our doors becomes part of our story.
+Maple Heart Cruison isn’t just a restaurant — it’s a gathering place. A place for families to celebrate milestones, for friends to laugh over burgers, and for couples to enjoy quiet dinners by candlelight. Every guest who walks through our doors becomes part of our story.
 
-Welcome to Maple Hearth — where every meal is served from the heart.`;
+Welcome to Maple Heart Cruison — where every meal is served from the heart.`;
 
 export const PARTNER_BRANDS = [
   {
@@ -135,7 +135,7 @@ export const TESTIMONIALS: Testimonial[] = [
   {
     id: '1',
     author: 'Happy Customer',
-    text: 'Absolutely delicious food and wonderful service. Maple Hearth feels like home!'
+    text: 'Absolutely delicious food and wonderful service. Maple Heart Cruison feels like home!'
   },
   {
     id: '2',

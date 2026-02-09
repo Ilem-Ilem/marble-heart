@@ -35,7 +35,7 @@ const Header: React.FC = () => {
         <Link to="/" className="flex items-center space-x-2 group">
           <img 
             src="/images/logo/WhatsApp Image 2026-02-08 at 7.34.39 PM.jpeg" 
-            alt="Maple Hearth Logo" 
+            alt="Maple Heart Cruison Logo" 
             className="w-12 h-12 object-contain group-hover:scale-110 transition-transform duration-300" 
           />
         </Link>

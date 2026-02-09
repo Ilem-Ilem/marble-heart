@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
           {/* Brand */}
           <div className="flex flex-col space-y-4">
             <Link to="/" className="flex items-center space-x-2">
-              <span className="text-2xl font-serif font-bold text-cream">Maple Hearth</span>
+              <span className="text-2xl font-serif font-bold text-cream">Maple Heart Cruison</span>
             </Link>
             <p className="text-warm-gray text-sm leading-relaxed">
               Where comfort meets flavor. Drawing from Canadian hearthside cooking and the sweet richness of maple.
@@ -64,7 +64,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="border-t border-walnut pt-8 flex flex-col md:flex-row justify-between items-center text-xs text-warm-gray">
-          <p>© 2025 Maple Hearth Restaurant. All rights reserved.</p>
+          <p>© 2025 Maple Heart Cruison. All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="hover:text-cream">Privacy Policy</a>
             <a href="#" className="hover:text-cream">Terms of Service</a>

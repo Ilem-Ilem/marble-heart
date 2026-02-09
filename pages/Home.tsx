@@ -14,7 +14,7 @@ const Home: React.FC = () => {
         <div className="absolute inset-0 z-0">
           <img
             src="/images/menu/WhatsApp Image 2026-02-08 at 7.35.28 PM.jpeg"
-            alt="Maple Hearth Interior"
+            alt="Maple Heart Cruison Interior"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-black/60" />
@@ -25,7 +25,7 @@ const Home: React.FC = () => {
              <span className="bg-maple-orange/20 backdrop-blur-md px-4 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-[0.2em] border border-white/20">EAT & DRINK</span>
           </div>
           <h1 className="text-5xl md:text-8xl font-serif font-bold mb-4 drop-shadow-xl">
-            Maple Hearth <span className="text-maple-orange italic">Restaurant</span>
+            Maple Heart Cruison
           </h1>
           <p className="text-xl md:text-2xl font-light mb-6 tracking-[0.1em] opacity-90 uppercase">
             Where Comfort Meets Flavor
@@ -72,12 +72,12 @@ const Home: React.FC = () => {
               <div className="absolute -bottom-8 -right-8 w-64 h-64 bg-maple-amber/10 rounded-full -z-0 blur-3xl" />
             </div>
             <div className="lg:w-1/2 space-y-8">
-              <span className="text-maple-amber font-bold tracking-widest uppercase text-sm">Welcome to Maple Hearth</span>
+              <span className="text-maple-amber font-bold tracking-widest uppercase text-sm">Welcome to Maple Heart Cruison</span>
               <h2 className="text-4xl md:text-5xl font-serif font-bold text-walnut leading-tight">
                 Hearty, homemade meals crafted with love.
               </h2>
               <p className="text-warm-gray text-lg leading-relaxed italic">
-                "At Maple Hearth Restaurant, we serve hearty, homemade meals crafted with love and fresh ingredients. Whether you’re here for a cozy breakfast, a family lunch, or a relaxing dinner, every dish is prepared to make you feel right at home."
+                "At Maple Heart Cruison, we serve hearty, homemade meals crafted with love and fresh ingredients. Whether you're here for a cozy breakfast, a family lunch, or a relaxing dinner, every dish is prepared to make you feel right at home."
               </p>
               <div className="grid grid-cols-2 gap-6">
                 <div className="flex items-center space-x-3">
